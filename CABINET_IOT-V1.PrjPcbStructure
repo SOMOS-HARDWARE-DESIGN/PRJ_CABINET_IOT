@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=000_MCU - ESP32.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=000_MCU - ESP32.SchDoc|FileName=100_Power Supply.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=000_MCU - ESP32.SchDoc|FileName=200_Ethernet.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=000_MCU - ESP32.SchDoc|FileName=300_Control.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=000_MCU - ESP32.SchDoc|FileName=400_Sensors.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=000_MCU - ESP32.SchDoc|FileName=500_External.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=000_MCU - ESP32.SchDoc|FileName=Main.SchDoc|SheetNumber=1
