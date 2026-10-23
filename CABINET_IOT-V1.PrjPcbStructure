@@ -1,7 +1,7 @@
-Record=TopLevelDocument|FileName=000_MCU - ESP32.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=000_MCU - ESP32.SchDoc|FileName=100_Power Supply.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=000_MCU - ESP32.SchDoc|FileName=200_Ethernet.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=000_MCU - ESP32.SchDoc|FileName=300_Control.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=000_MCU - ESP32.SchDoc|FileName=400_Sensors.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=000_MCU - ESP32.SchDoc|FileName=500_External.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=000_MCU - ESP32.SchDoc|FileName=Main.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_000_MCU - ESP32|SchDesignator=U_000_MCU - ESP32|FileName=000_MCU - ESP32.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=000_MCU - ESP32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_100_Power Supply|SchDesignator=U_100_Power Supply|FileName=100_Power Supply.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=100_Power Supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_200_Ethernet|SchDesignator=U_200_Ethernet|FileName=200_Ethernet.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=200_Ethernet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_300_Control|SchDesignator=U_300_Control|FileName=300_Control.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=300_Control.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_400_Sensors|SchDesignator=U_400_Sensors|FileName=400_Sensors.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=400_Sensors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_500_External|SchDesignator=U_500_External|FileName=500_External.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=500_External.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
