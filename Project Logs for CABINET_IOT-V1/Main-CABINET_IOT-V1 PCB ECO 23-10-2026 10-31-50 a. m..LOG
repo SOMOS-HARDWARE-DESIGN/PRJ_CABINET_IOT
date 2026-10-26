@@ -1,0 +1,69 @@
+Add component: Footprint Not Found Safety Capacitor TH,P=10mm
+Add component: Footprint Not Found Safety Capacitor TH,P=10mm
+Add component: Footprint Not Found 0402
+Add component: Footprint Not Found 0402
+Add component: Footprint Not Found 0402
+Add component: Footprint Not Found 0402
+Add component: Footprint Not Found Relay_1C TH_19.2x15.6mm
+Add component: Footprint Not Found DIL4-SMD
+Add component: Footprint Not Found TestPoint-1mm
+Add component: Footprint Not Found 4-SOT_223
+Add component: Footprint Not Found TI-DGS10_N
+Added Component: Designator=Y200(SMD2520-4P)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C2901606.html?s_z=s_c_Oscillators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SCTF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SX2M50.000M20F30TNN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2901606"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C100-1
+Add Pin To Net: Unknown Pin: Pin C100-2
+Add Pin To Net: Unknown Pin: Pin C300-1
+Add Pin To Net: Unknown Pin: Pin C300-2
+Add Pin To Net: Unknown Pin: Pin D1-A
+Add Pin To Net: Unknown Pin: Pin D1-K
+Add Pin To Net: Unknown Pin: Pin D2-A
+Add Pin To Net: Unknown Pin: Pin D2-K
+Add Pin To Net: Unknown Pin: Pin D3-A
+Add Pin To Net: Unknown Pin: Pin D3-K
+Add Pin To Net: Unknown Pin: Pin D4-A
+Add Pin To Net: Unknown Pin: Pin D4-K
+Add Pin To Net: Unknown Pin: Pin K300-1
+Add Pin To Net: Unknown Pin: Pin K300-2
+Add Pin To Net: Unknown Pin: Pin K300-4
+Add Pin To Net: Unknown Pin: Pin K300-5
+Add Pin To Net: Unknown Pin: Pin OK400-1
+Add Pin To Net: Unknown Pin: Pin OK400-2
+Add Pin To Net: Unknown Pin: Pin OK400-3
+Add Pin To Net: Unknown Pin: Pin OK400-4
+Add Pin To Net: Unknown Pin: Pin TP200-1
+Add Pin To Net: Unknown Pin: Pin U102-1
+Add Pin To Net: Unknown Pin: Pin U102-2
+Add Pin To Net: Unknown Pin: Pin U102-3
+Add Pin To Net: Unknown Pin: Pin U102-4
+Add Pin To Net: Unknown Pin: Pin U400-1
+Add Pin To Net: Unknown Pin: Pin U400-2
+Add Pin To Net: Unknown Pin: Pin U400-3
+Add Pin To Net: Unknown Pin: Pin U400-4
+Add Pin To Net: Unknown Pin: Pin U400-5
+Add Pin To Net: Unknown Pin: Pin U400-6
+Add Pin To Net: Unknown Pin: Pin U400-8
+Add Pin To Net: Unknown Pin: Pin U400-9
+Add Pin To Net: Unknown Pin: Pin U400-10
+Added Pin To Net: NetName=IO17_OSC_EN Pin=Y200-1
+Added Pin To Net: NetName=GND Pin=Y200-2
+Added Pin To Net: NetName=CLK_50M Pin=Y200-3
+Added Pin To Net: NetName=+3V3 Pin=Y200-4
+Add Class Member: Failed to add class member : Component C100 C42Q322448P40001
+Add Class Member: Failed to add class member : Component C300 MPX104K31C3KN15600
+Add Class Member: Failed to add class member : Component D1 ESD
+Add Class Member: Failed to add class member : Component D2 ESD
+Add Class Member: Failed to add class member : Component D3 ESD
+Add Class Member: Failed to add class member : Component D4 ESD
+Add Class Member: Failed to add class member : Component K300 SRD-05VDC-SL-C
+Add Class Member: Failed to add class member : Component OK400 PC817CS
+Add Class Member: Failed to add class member : Component TP200
+Add Class Member: Failed to add class member : Component U102 AMS1117-3.3
+Add Class Member: Failed to add class member : Component U400 ADS1115IDGSR
+Added Member To Class: ClassName=U_200_Ethernet Member=Component Y200 50MHz

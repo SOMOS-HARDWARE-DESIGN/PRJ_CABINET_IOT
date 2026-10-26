@@ -1,0 +1,40 @@
+Added Component: Designator=C100(Safety Capacitor TH,P=10mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C46638866.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WALSON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C42Q322448P40001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C46638866"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C300(Safety Capacitor TH,P=10mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C489079.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KNSCHA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MPX104K31C3KN15600"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C489079"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found 0402
+Add component: Footprint Not Found 0402
+Add component: Footprint Not Found 0402
+Add component: Footprint Not Found 0402
+Add component: Footprint Not Found 0402
+Added Pin To Net: NetName=AC_N Pin=C100-1
+Added Pin To Net: NetName=AC_L Pin=C100-2
+Added Pin To Net: NetName=NetC300_1 Pin=C300-1
+Added Pin To Net: NetName=AC_L_FAN Pin=C300-2
+Add Pin To Net: Unknown Pin: Pin D1-A
+Add Pin To Net: Unknown Pin: Pin D1-K
+Add Pin To Net: Unknown Pin: Pin D2-A
+Add Pin To Net: Unknown Pin: Pin D2-K
+Add Pin To Net: Unknown Pin: Pin D3-A
+Add Pin To Net: Unknown Pin: Pin D3-K
+Add Pin To Net: Unknown Pin: Pin D4-A
+Add Pin To Net: Unknown Pin: Pin D4-K
+Added Member To Class: ClassName=U_100_Power Supply Member=Component C100 C42Q322448P40001
+Added Member To Class: ClassName=U_300_Control Member=Component C300 MPX104K31C3KN15600
+Add Class Member: Failed to add class member : Component D1 ESD
+Add Class Member: Failed to add class member : Component D2 ESD
+Add Class Member: Failed to add class member : Component D3 ESD
+Add Class Member: Failed to add class member : Component D4 ESD
+Add Class Member: Failed to add class member : Component D?
