@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+3V3 Pin=L200-1
+Removed Pin From Net: NetName=+3V3_SFP Pin=L200-2
+Removed Member From Class: ClassName=U_200_Ethernet Member=L200
+Added Component: Designator=FB201(RESC1608X05N[0603])
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = "MPZ1608S601ATA00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C107335"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600OHM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=FB201-1
+Added Pin To Net: NetName=+3V3_SFP Pin=FB201-2
+Added Member To Class: ClassName=U_200_Ethernet Member=Component FB201 600OHM

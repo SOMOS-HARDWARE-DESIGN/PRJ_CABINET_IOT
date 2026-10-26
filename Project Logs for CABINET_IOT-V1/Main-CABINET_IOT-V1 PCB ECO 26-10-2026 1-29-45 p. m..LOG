@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+3V3 Pin=R3-2
+Removed Pin From Net: NetName=+3V3 Pin=R5-2
+Removed Pin From Net: NetName=NetR12_1 Pin=R13-1
+Added Pin To Net: NetName=+3V3_SFP Pin=R3-2
+Added Pin To Net: NetName=+3V3_SFP Pin=R5-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=R51-2
+Added Pin To Net: NetName=NetR13_1 Pin=U3-7
+Added Net: Name=NetR13_1

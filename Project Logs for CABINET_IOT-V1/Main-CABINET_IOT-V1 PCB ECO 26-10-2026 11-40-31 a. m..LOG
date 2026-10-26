@@ -1,0 +1,405 @@
+Removed Pin From Net: NetName=IO35_DOORSWITCH Pin=J300-2
+Removed Pin From Net: NetName=IO35_DOORSWITCH Pin=R305-1
+Added Component: Designator=C301(CAPC1005X03N[0402])
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-3342-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C409(CAPC2012X05N[0805])
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "NM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C410(CAPC1608X05N[0603])
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1869-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeficient"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "NM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C414(CAPC1608X05N[0603])
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1869-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeficient"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "NM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C418(CAPC1005X03N[0402])
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-3342-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "NM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C419(CAPC1005X03N[0402])
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-3342-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "NM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component: Footprint Not Found D_0402
+Add component: Footprint Not Found D_0402
+Add component: Footprint Not Found D_0402
+Add component: Footprint Not Found D_0402
+Added Component: Designator=D302(DO214AC)
+Add component (AddParameter): Name = "Manufacturer"; Value = "DIODES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PArt Number"; Value = "S1M-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C155378"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J301(JST B3B-PH-K-S(LF)(SN))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C131339.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B3B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C131339"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q302(SOT223_N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C209902.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DIODES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DMN6068SE-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C209902"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R306(RESC1005X03N[0402])
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P1.00KLDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R307(RESC1005X03N[0402])
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-3431-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R308(RESC1005X03N[0402])
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-3431-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R424(RESC1005X03N[0402])
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-5.10KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "NM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1K"; VariantName = "[No Variations]"
+Added Component: Designator=R426(RESC1005X03N[0402])
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-5.10KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "NM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1K"; VariantName = "[No Variations]"
+Added Component: Designator=R427(RESC1005X03N[0402])
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C2906861.html?s_z=n_q_t_10k%25200402&spm=wm.fly.bg.1.xh___wm.ssy.tc.0.tz&lcsc_vid=E1leBAAAQVAIUVNVR1hWXgVSR1lYV11SQQNbUFxTQQcxVlNeRFVZUVRUQ1NfVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVeSQwSGg0%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2906861"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-0.0JRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "NM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R428(RESC1005X03N[0402])
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C2906861.html?s_z=n_q_t_10k%25200402&spm=wm.fly.bg.1.xh___wm.ssy.tc.0.tz&lcsc_vid=E1leBAAAQVAIUVNVR1hWXgVSR1lYV11SQQNbUFxTQQcxVlNeRFVZUVRUQ1NfVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVeSQwSGg0%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C2906861"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-0.0JRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "NM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U300(SOT-353)
+Add component (AddParameter): Name = "Manufacturer"; Value = "DIODES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "74LVC1G32SE-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C460530"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U402(SOP127P600X175-8N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C398360.html?s_z=n_q_t_TLV9002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/datasheet/C398360.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TLV9002IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C398360"; VariantName = "[No Variations]"
+Added Component: Designator=X303(TH,Right Angle,P=5mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C441225.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part number"; Value = "KF2EDGRC-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C441225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X403(TH,Right Angle,P=5mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C441225.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part number"; Value = "KF2EDGRC-5.0-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C441225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = "NM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C301-1
+Added Pin To Net: NetName=+3V3 Pin=C301-2
+Added Pin To Net: NetName=CT_ANALOG_DC Pin=C410-1
+Added Pin To Net: NetName=GND Pin=C414-1
+Added Pin To Net: NetName=GND Pin=C418-1
+Added Pin To Net: NetName=GND Pin=C419-1
+Added Pin To Net: NetName=+3V3 Pin=C419-2
+Add Pin To Net: Unknown Pin: Pin D1-A
+Add Pin To Net: Unknown Pin: Pin D1-K
+Add Pin To Net: Unknown Pin: Pin D2-A
+Add Pin To Net: Unknown Pin: Pin D2-K
+Add Pin To Net: Unknown Pin: Pin D3-A
+Add Pin To Net: Unknown Pin: Pin D3-K
+Add Pin To Net: Unknown Pin: Pin D4-A
+Add Pin To Net: Unknown Pin: Pin D4-K
+Added Pin To Net: NetName=+12V Pin=D302-K
+Added Pin To Net: NetName=+3V3 Pin=J301-1
+Added Pin To Net: NetName=GND Pin=J301-3
+Added Pin To Net: NetName=GND Pin=Q302-2
+Added Pin To Net: NetName=+3V3 Pin=R44-2
+Added Pin To Net: NetName=+3V3 Pin=R45-2
+Added Pin To Net: NetName=+3V3 Pin=R46-2
+Added Pin To Net: NetName=+3V3 Pin=R47-2
+Added Pin To Net: NetName=IO12 Pin=R306-2
+Added Pin To Net: NetName=GND Pin=R307-2
+Added Pin To Net: NetName=GND Pin=R308-2
+Added Pin To Net: NetName=+3V3 Pin=R427-1
+Added Pin To Net: NetName=GND Pin=R428-1
+Added Pin To Net: NetName=GND Pin=U300-3
+Added Pin To Net: NetName=IO35_DOORSWITCH Pin=U300-4
+Added Pin To Net: NetName=+3V3 Pin=U300-5
+Added Pin To Net: NetName=GND Pin=U402-4
+Added Pin To Net: NetName=+3V3 Pin=U402-8
+Added Pin To Net: NetName=+12V Pin=X303-2
+Added Pin To Net: NetName=CT_ANALOG_DC Pin=X403-1
+Added Pin To Net: NetName=GND Pin=X403-2
+Change Net Name : Old Net Name=CT_DISCRETE New Net Name=CT_DISCRETE1
+Added Pin To Net: NetName=CT_DISCRETE2 Pin=U400-7
+Added Pin To Net: NetName=CT_DISCRETE2 Pin=U402-6
+Added Pin To Net: NetName=CT_DISCRETE2 Pin=U402-7
+Added Net: Name=CT_DISCRETE2
+Added Pin To Net: NetName=Limit_SW_1 Pin=J300-2
+Added Pin To Net: NetName=Limit_SW_1 Pin=R305-1
+Added Pin To Net: NetName=Limit_SW_1 Pin=U300-1
+Added Net: Name=Limit_SW_1
+Added Pin To Net: NetName=Limit_SW_2 Pin=J301-2
+Added Pin To Net: NetName=Limit_SW_2 Pin=R308-1
+Added Pin To Net: NetName=Limit_SW_2 Pin=U300-2
+Added Net: Name=Limit_SW_2
+Added Pin To Net: NetName=NetC409_1 Pin=C409-1
+Added Pin To Net: NetName=NetC409_1 Pin=R424-1
+Added Pin To Net: NetName=NetC409_1 Pin=R426-2
+Added Pin To Net: NetName=NetC409_1 Pin=U402-2
+Added Net: Name=NetC409_1
+Added Pin To Net: NetName=NetC409_2 Pin=C409-2
+Added Pin To Net: NetName=NetC409_2 Pin=R424-2
+Added Pin To Net: NetName=NetC409_2 Pin=U402-1
+Added Pin To Net: NetName=NetC409_2 Pin=U402-5
+Added Net: Name=NetC409_2
+Added Pin To Net: NetName=NetC410_2 Pin=C410-2
+Added Pin To Net: NetName=NetC410_2 Pin=R426-1
+Added Net: Name=NetC410_2
+Added Pin To Net: NetName=NetC414_2 Pin=C414-2
+Added Pin To Net: NetName=NetC414_2 Pin=C418-2
+Added Pin To Net: NetName=NetC414_2 Pin=R427-2
+Added Pin To Net: NetName=NetC414_2 Pin=R428-2
+Added Pin To Net: NetName=NetC414_2 Pin=U402-3
+Added Net: Name=NetC414_2
+Added Pin To Net: NetName=NetD302_A Pin=D302-A
+Added Pin To Net: NetName=NetD302_A Pin=Q302-3
+Added Pin To Net: NetName=NetD302_A Pin=X303-1
+Added Net: Name=NetD302_A
+Added Pin To Net: NetName=NetQ302_1 Pin=Q302-1
+Added Pin To Net: NetName=NetQ302_1 Pin=R306-1
+Added Pin To Net: NetName=NetQ302_1 Pin=R307-1
+Added Net: Name=NetQ302_1
+Added Member To Class: ClassName=U_300_Control Member=Component C301 0.1uF
+Added Member To Class: ClassName=U_400_Sensors Member=Component C409 *
+Added Member To Class: ClassName=U_400_Sensors Member=Component C410 10uF
+Added Member To Class: ClassName=U_400_Sensors Member=Component C414 10uF
+Added Member To Class: ClassName=U_400_Sensors Member=Component C418 0.1uF
+Added Member To Class: ClassName=U_400_Sensors Member=Component C419 0.1uF
+Add Class Member: Failed to add class member : Component D1 ESD
+Add Class Member: Failed to add class member : Component D2 ESD
+Add Class Member: Failed to add class member : Component D3 ESD
+Add Class Member: Failed to add class member : Component D4 ESD
+Added Member To Class: ClassName=U_300_Control Member=Component D302 S1M-13-F
+Added Member To Class: ClassName=U_300_Control Member=Component J301 LS
+Added Member To Class: ClassName=U_300_Control Member=Component Q302 DMN6068SE-13
+Added Member To Class: ClassName=U_300_Control Member=Component R306 1K
+Added Member To Class: ClassName=U_300_Control Member=Component R307 10k
+Added Member To Class: ClassName=U_300_Control Member=Component R308 10k
+Added Member To Class: ClassName=U_400_Sensors Member=Component R424 5.1K
+Added Member To Class: ClassName=U_400_Sensors Member=Component R426 5.1K
+Added Member To Class: ClassName=U_400_Sensors Member=Component R427 10K
+Added Member To Class: ClassName=U_400_Sensors Member=Component R428 10K
+Added Member To Class: ClassName=U_300_Control Member=Component U300 74LVC1G32SE-7
+Added Member To Class: ClassName=U_400_Sensors Member=Component U402 TLV9002IDR
+Added Member To Class: ClassName=U_300_Control Member=Component X303 ElectroMagnet
+Added Member To Class: ClassName=U_400_Sensors Member=Component X403 CT CLAMP DC

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C205-1
+Removed Pin From Net: NetName=+3V3 Pin=C205-2
+Removed Pin From Net: NetName=+3V3_SFP Pin=C207-2
+Removed Member From Class: ClassName=U_200_Ethernet Member=C205
+Added Pin To Net: NetName=+3V3 Pin=C207-2
