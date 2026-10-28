@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=X100 Old Footprint=TH,Right Angle,P=5mm New Footprint=TH,Right Angle,P=7.5mm
+Change Component Footprint: Designator=X300 Old Footprint=TH,Right Angle,P=5mm New Footprint=TH,Right Angle,P=7.5mm
+Change Component Footprint: Designator=X301 Old Footprint=TH,Right Angle,P=5mm New Footprint=TH,Right Angle,P=7.5mm
+Change Component Comment : Designator=X300 Old Comment=FAN 1 New Comment=FAN 1/2
+Change Component Comment : Designator=X301 Old Comment=FAN 3 New Comment=FAN 3/4
+Change component parameters: Designator = "X100" ("X100"); Footprint = "TH,Right Angle,P=5mm"; UniqueID = "\BCERDRCX\UNPIUHRC" ("\BCERDRCX\UNPIUHRC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C976440.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part number"; Value = "KF2EDGRC-7.5-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C976440"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "X300" ("X300"); Footprint = "TH,Right Angle,P=5mm"; UniqueID = "\ASQUVQLD\DFUQRSVF" ("\ASQUVQLD\DFUQRSVF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C976440.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part number"; Value = "KF2EDGRC-7.5-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C976440"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "X301" ("X301"); Footprint = "TH,Right Angle,P=5mm"; UniqueID = "\ASQUVQLD\GBTGCZOG" ("\ASQUVQLD\GBTGCZOG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C976440.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Cixi Kefa Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part number"; Value = "KF2EDGRC-7.5-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C976440"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"

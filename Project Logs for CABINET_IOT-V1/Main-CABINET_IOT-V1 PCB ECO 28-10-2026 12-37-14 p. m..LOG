@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=AC_L Pin=K300-5
+Change Component Footprint: Designator=K300 Old Footprint=Relay_1C TH_19.2x15.6mm New Footprint=RELAY_G5NB-1A-E-DC
+Change Component Comment : Designator=K300 Old Comment=SRD-05VDC-SL-C New Comment=G5NB-1A-E-DC5V
+Change component parameters: Designator = "C300" ("C300"); Footprint = "Safety Capacitor TH,P=10mm"; UniqueID = "\ASQUVQLD\KWMVDQIS" ("\ASQUVQLD\KWMVDQIS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C489079.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KNSCHA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "MPX104K31C3KN15600"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C489079"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K300" ("K300"); Footprint = "Relay_1C TH_19.2x15.6mm"; UniqueID = "\ASQUVQLD\DFUMRHQB" ("\ASQUVQLD\DFUMRHQB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C48746.html?s_z=n_q_G5NB-1A-E-DC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "OMRON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "G5NB-1A-E-DC5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C48746"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AC_L Pin=K300-3
