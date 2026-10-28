@@ -1,0 +1,6 @@
+Change Differential Pair Positive Net Name : Old Net Name=100BE_R_P New Net Name=100BE_R_P
+Change Differential Pair Positive Net Name : Old Net Name=100BE_T_P New Net Name=100BE_T_P
+Change Differential Pair Negative Net Name : Old Net Name=100BE_R_N New Net Name=100BE_R_N
+Change Differential Pair Negative Net Name : Old Net Name=100BE_T_N New Net Name=100BE_T_N
+Added Member To Class: ClassName=MDI-MT_RTL Member=Wire 100BE_R_P
+Added Member To Class: ClassName=MDI-MT_RTL Member=Wire 100BE_T_P

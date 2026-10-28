@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=RS232_TX Pin=J500-1
+Removed Pin From Net: NetName=RS232_RX Pin=J500-2
+Removed Pin From Net: NetName=GND Pin=J500-3
+Change Component Footprint: Designator=J500 Old Footprint=JST B3B-PH-K-S(LF)(SN) New Footprint=KH-RJ45-58-8P8C
+Change Component Comment : Designator=J500 Old Comment=RS232 New Comment=KH-RJ45-58-8P8C
+Change component parameters: Designator = "J500" ("J500"); Footprint = "JST B3B-PH-K-S(LF)(SN)"; UniqueID = "\NTXJCUBF\XZTAWDCR" ("\NTXJCUBF\XZTAWDCR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C2683360.html?s_z=n_q_C2683360&globalKeyword=C2683360"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.lcsc.com/product-detail/C2683360.html?s_z=n_q_C2683360&globalKeyword=C2683360"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Date Modify"; Value = "040826"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Modify by"; Value = "J.Jaramillo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "kinghelm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "KH-RJ45-58-8P8C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "THT NS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C2683360"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C507(CAPC3216X06N[1206])
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-4501-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coeficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2kV"; VariantName = "[No Variations]"
+Added Component: Designator=D500(SOD-323)
+Add component (AddParameter): Name = "Capacitance"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DESD5V0U1BA-7DICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DESD5V0U1BA-7"; VariantName = "[No Variations]"
+Added Component: Designator=D501(SOD-323)
+Add component (AddParameter): Name = "Capacitance"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DESD5V0U1BA-7DICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DESD5V0U1BA-7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C507-1
+Added Pin To Net: NetName=CHASSIS_GND Pin=C507-2
+Added Pin To Net: NetName=RS232_TX Pin=D500-A
+Added Pin To Net: NetName=GND Pin=D500-K
+Added Pin To Net: NetName=RS232_RX Pin=D501-A
+Added Pin To Net: NetName=GND Pin=D501-K
+Added Pin To Net: NetName=RS232_TX Pin=J500-3
+Added Pin To Net: NetName=RS232_RX Pin=J500-6
+Added Pin To Net: NetName=CHASSIS_GND Pin=J500-SH
+Added Pin To Net: NetName=CHASSIS_GND Pin=J500-SH
+Added Member To Class: ClassName=U_500_External Member=Component C507 1000pF
+Added Member To Class: ClassName=U_500_External Member=Component D500 DESD5V0U1BA-7
+Added Member To Class: ClassName=U_500_External Member=Component D501 DESD5V0U1BA-7

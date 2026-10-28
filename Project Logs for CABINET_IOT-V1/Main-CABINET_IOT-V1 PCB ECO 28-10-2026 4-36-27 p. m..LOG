@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=RX_P Pin=C234-2
+Removed Pin From Net: NetName=RX_N Pin=C236-2
+Removed Pin From Net: NetName=TX_P Pin=C238-2
+Removed Pin From Net: NetName=RTL_P3MDIB_P Pin=C239-1
+Removed Pin From Net: NetName=TX_N Pin=C243-2
+Removed Pin From Net: NetName=RTL_P3MDIB_N Pin=C244-1
+Removed Pin From Net: NetName=GND Pin=Q300-4
+Removed Pin From Net: NetName=GND Pin=Q301-4
+Removed Pin From Net: NetName=GND Pin=Q302-4
+Removed Pin From Net: NetName=+3V3 Pin=Q500-4
+Removed Pin From Net: NetName=NetC237_2 Pin=T200-3
+Removed Pin From Net: NetName=NetC235_2 Pin=T200-4
+Added Pin To Net: NetName=RX_N Pin=C234-2
+Added Pin To Net: NetName=RX_P Pin=C236-2
+Added Pin To Net: NetName=TX_N Pin=C238-2
+Added Pin To Net: NetName=RTL_P3MDIB_N Pin=C239-1
+Added Pin To Net: NetName=TX_P Pin=C243-2
+Added Pin To Net: NetName=RTL_P3MDIB_P Pin=C244-1
+Added Pin To Net: NetName=NetC235_2 Pin=T200-3
+Added Pin To Net: NetName=NetC237_2 Pin=T200-4
+Change Net Name : Old Net Name=100BE_R_N New Net Name=100BE_R_P
+Change Net Name : Old Net Name=100BE_R_P New Net Name=100BE_R_N
+Change Net Name : Old Net Name=100BE_T_N New Net Name=100BE_T_P
+Change Net Name : Old Net Name=100BE_T_P New Net Name=100BE_T_N

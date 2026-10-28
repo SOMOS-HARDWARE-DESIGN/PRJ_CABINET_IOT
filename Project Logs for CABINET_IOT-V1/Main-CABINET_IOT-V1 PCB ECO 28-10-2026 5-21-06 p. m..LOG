@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=NetC235_2 New Net Name=P3MDIA_P
+Change Net Name : Old Net Name=NetC237_2 New Net Name=P3MDIA_N
+Change Net Name : Old Net Name=NetC239_2 New Net Name=P3MDIB_N
+Change Net Name : Old Net Name=NetC244_2 New Net Name=P3MDIB_P
+Added Differential Pair: Name=P3MDIA
+Added Differential Pair: Name=P3MDIB
+Added Member To Class: ClassName=DIFF_100 Member=P3MDIA
+Added Member To Class: ClassName=DIFF_100 Member=P3MDIB

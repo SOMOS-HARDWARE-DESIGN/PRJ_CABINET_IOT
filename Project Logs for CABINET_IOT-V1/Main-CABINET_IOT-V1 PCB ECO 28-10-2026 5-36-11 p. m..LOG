@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=RS232_TX Pin=D500-A
+Removed Pin From Net: NetName=GND Pin=D500-K
+Removed Pin From Net: NetName=RS232_RX Pin=D501-A
+Removed Pin From Net: NetName=GND Pin=D501-K
+Change Component Footprint: Designator=D500 Old Footprint=SOD-323 New Footprint=0402
+Change Component Footprint: Designator=D501 Old Footprint=SOD-323 New Footprint=0402
+Change Component Comment : Designator=D500 Old Comment=DESD5V0U1BA-7 New Comment=ESD
+Change Component Comment : Designator=D501 Old Comment=DESD5V0U1BA-7 New Comment=ESD
+Change component parameters: Designator = "D500" ("D500"); Footprint = "SOD-323"; UniqueID = "\NTXJCUBF\DGNBURNH" ("\NTXJCUBF\DGNBURNH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C7496586.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Slkor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SLESD0402-V05"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C7496586"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D501" ("D501"); Footprint = "SOD-323"; UniqueID = "\NTXJCUBF\XRIBWCSS" ("\NTXJCUBF\XRIBWCSS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C7496586.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Slkor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SLESD0402-V05"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C7496586"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D500-A
+Added Pin To Net: NetName=RS232_TX Pin=D500-K
+Added Pin To Net: NetName=GND Pin=D501-A
+Added Pin To Net: NetName=RS232_RX Pin=D501-K
