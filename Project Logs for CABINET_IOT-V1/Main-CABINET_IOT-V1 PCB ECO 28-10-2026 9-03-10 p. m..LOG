@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=WATER SENS Pin=U400-4
+Removed Pin From Net: NetName=MQ-7_ CO SENSOR Pin=U400-5
+Added Pin To Net: NetName=MQ-7_ CO SENSOR Pin=U400-4
+Added Pin To Net: NetName=WATER SENS Pin=U400-5

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RTL8213_SGMII_RX_P Pin=C211-2
+Removed Pin From Net: NetName=RTL8213_SGMII_RX_N Pin=C212-2
+Added Pin To Net: NetName=RTL8213_SGMII_RX_N Pin=C211-2
+Added Pin To Net: NetName=RTL8213_SGMII_RX_P Pin=C212-2
