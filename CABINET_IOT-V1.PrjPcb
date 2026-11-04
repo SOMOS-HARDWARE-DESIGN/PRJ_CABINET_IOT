@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=EVT-1
 
 [Preferences]
 PrefsVaultGUID=
@@ -576,6 +577,30 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueId=2f4aa24d-2be6-46aa-a476-c089c83dff0d
+Description=EVT-1
+AllowFabrication=0
+ParameterCount=0
+VariationCount=16
+Variation1=Designator=R34|UniqueId=\IRGNZTRU\GYXAPSAE|Kind=1|AlternatePart=
+Variation2=Designator=R36|UniqueId=\IRGNZTRU\WUAKVPKP|Kind=1|AlternatePart=
+Variation3=Designator=R38|UniqueId=\IRGNZTRU\ZXNPGTZB|Kind=1|AlternatePart=
+Variation4=Designator=Q2|UniqueId=\IRGNZTRU\OFHJRHDF|Kind=0|AlternatePart=
+Variation5=Designator=Q1|UniqueId=\IRGNZTRU\CLZFORVN|Kind=0|AlternatePart=
+Variation6=Designator=R25|UniqueId=\IRGNZTRU\LBHQPUFB|Kind=0|AlternatePart=
+Variation7=Designator=R28|UniqueId=\IRGNZTRU\UOKUZVJJ|Kind=0|AlternatePart=
+Variation8=Designator=R29|UniqueId=\IRGNZTRU\LSJYEYGX|Kind=0|AlternatePart=
+Variation9=Designator=R22|UniqueId=\IRGNZTRU\FPKTHDMP|Kind=0|AlternatePart=
+Variation10=Designator=C104|UniqueId=\BCERDRCX\TDAZALHY|Kind=1|AlternatePart=
+Variation11=Designator=C412|UniqueId=\BOLDCYLA\MULYMCGJ|Kind=1|AlternatePart=
+Variation12=Designator=C409|UniqueId=\BOLDCYLA\FQXAXIJC|Kind=1|AlternatePart=
+Variation13=Designator=R422|UniqueId=\BOLDCYLA\CUSCNGVF|Kind=1|AlternatePart=
+Variation14=Designator=R506|UniqueId=\NTXJCUBF\EBNENZSQ|Kind=1|AlternatePart=
+Variation15=Designator=J502|UniqueId=\NTXJCUBF\DIWADCAH|Kind=1|AlternatePart=
+Variation16=Designator=J506|UniqueId=\NTXJCUBF\ZHZLXPYJ|Kind=1|AlternatePart=
+ParamVariationCount=0
+
 [Parameter1]
 Name=GlobalDrawnBy
 Value=J-E.Pachon-J.Jaramillo
@@ -918,6 +943,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
@@ -1697,6 +1734,23 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=+12V|NetColor=$006E6EFF
+Net2=NetName=+1V0_RTL8213|NetColor=$00FF6EFF
+Net3=NetName=+3V3|NetColor=clYellow
+Net4=NetName=+3V3_SFP|NetColor=$0000CCFF
+Net5=NetName=+5V|NetColor=$0000BE00
+Net6=NetName=+5V_DCDC|NetColor=$006EFF6E
+Net7=NetName=+5V_USB|NetColor=$00FF6E6E
+Net8=NetName=+5V0_AC_IN|NetColor=$0099FF00
+Net9=NetName=AC_L|NetColor=$00FF0099
+Net10=NetName=AC_N|NetColor=$00003399
+Net11=NetName=CHASSIS_GND|NetColor=$00707070
+Net12=NetName=GND|NetColor=$00996666
+Net13=NetName=NetLC100_3|NetColor=$00FF0099
+Net14=NetName=NetLC100_4|NetColor=$00003399
+Net15=NetName=NetRT100_1|NetColor=$00FF0099
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
