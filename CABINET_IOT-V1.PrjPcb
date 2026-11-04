@@ -582,23 +582,17 @@ UniqueId=2f4aa24d-2be6-46aa-a476-c089c83dff0d
 Description=EVT-1
 AllowFabrication=0
 ParameterCount=0
-VariationCount=16
+VariationCount=10
 Variation1=Designator=R34|UniqueId=\IRGNZTRU\GYXAPSAE|Kind=1|AlternatePart=
 Variation2=Designator=R36|UniqueId=\IRGNZTRU\WUAKVPKP|Kind=1|AlternatePart=
 Variation3=Designator=R38|UniqueId=\IRGNZTRU\ZXNPGTZB|Kind=1|AlternatePart=
-Variation4=Designator=Q2|UniqueId=\IRGNZTRU\OFHJRHDF|Kind=0|AlternatePart=
-Variation5=Designator=Q1|UniqueId=\IRGNZTRU\CLZFORVN|Kind=0|AlternatePart=
-Variation6=Designator=R25|UniqueId=\IRGNZTRU\LBHQPUFB|Kind=0|AlternatePart=
-Variation7=Designator=R28|UniqueId=\IRGNZTRU\UOKUZVJJ|Kind=0|AlternatePart=
-Variation8=Designator=R29|UniqueId=\IRGNZTRU\LSJYEYGX|Kind=0|AlternatePart=
-Variation9=Designator=R22|UniqueId=\IRGNZTRU\FPKTHDMP|Kind=0|AlternatePart=
-Variation10=Designator=C104|UniqueId=\BCERDRCX\TDAZALHY|Kind=1|AlternatePart=
-Variation11=Designator=C412|UniqueId=\BOLDCYLA\MULYMCGJ|Kind=1|AlternatePart=
-Variation12=Designator=C409|UniqueId=\BOLDCYLA\FQXAXIJC|Kind=1|AlternatePart=
-Variation13=Designator=R422|UniqueId=\BOLDCYLA\CUSCNGVF|Kind=1|AlternatePart=
-Variation14=Designator=R506|UniqueId=\NTXJCUBF\EBNENZSQ|Kind=1|AlternatePart=
-Variation15=Designator=J502|UniqueId=\NTXJCUBF\DIWADCAH|Kind=1|AlternatePart=
-Variation16=Designator=J506|UniqueId=\NTXJCUBF\ZHZLXPYJ|Kind=1|AlternatePart=
+Variation4=Designator=C104|UniqueId=\BCERDRCX\TDAZALHY|Kind=1|AlternatePart=
+Variation5=Designator=C412|UniqueId=\BOLDCYLA\MULYMCGJ|Kind=1|AlternatePart=
+Variation6=Designator=C409|UniqueId=\BOLDCYLA\FQXAXIJC|Kind=1|AlternatePart=
+Variation7=Designator=R422|UniqueId=\BOLDCYLA\CUSCNGVF|Kind=1|AlternatePart=
+Variation8=Designator=R506|UniqueId=\NTXJCUBF\EBNENZSQ|Kind=1|AlternatePart=
+Variation9=Designator=J502|UniqueId=\NTXJCUBF\DIWADCAH|Kind=1|AlternatePart=
+Variation10=Designator=J506|UniqueId=\NTXJCUBF\ZHZLXPYJ|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
@@ -948,13 +942,15 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1536|FormHeight=818|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=Comment=True|Footprint=True
 Configuration1_Name5=SortOrder
 Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
+Configuration1_Item6=Comment=120|Designator=120|Footprint=120|LCSC=100|Manufacturer Part Number=100
+Configuration1_Name7=VisibleOrder_Flat
+Configuration1_Item7=Comment=120|Designator=120|Footprint=120|LCSC=100|Manufacturer Part Number=100
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
