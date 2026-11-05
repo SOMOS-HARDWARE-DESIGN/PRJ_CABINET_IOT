@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=AC_L Pin=LC100-1
+Removed Pin From Net: NetName=AC_N Pin=LC100-2
+Added Pin To Net: NetName=AC_N Pin=LC100-3
+Added Pin To Net: NetName=AC_L Pin=LC100-4
+Added Pin To Net: NetName=NetLC100_1 Pin=LC100-1
+Added Pin To Net: NetName=NetLC100_1 Pin=U100-1
+Added Net: Name=NetLC100_1
+Added Pin To Net: NetName=NetLC100_2 Pin=LC100-2
+Added Pin To Net: NetName=NetLC100_2 Pin=U100-2
+Added Net: Name=NetLC100_2

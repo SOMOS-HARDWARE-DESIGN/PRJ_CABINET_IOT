@@ -1,0 +1,189 @@
+Removed Pin From Net: NetName=AC_L Pin=K300-3
+Removed Pin From Net: NetName=GND Pin=Q300-2
+Removed Pin From Net: NetName=NetD300_A Pin=Q300-3
+Removed Pin From Net: NetName=GND Pin=Q300-
+Removed Pin From Net: NetName=GND Pin=Q301-2
+Removed Pin From Net: NetName=NetD301_A Pin=Q301-3
+Removed Pin From Net: NetName=GND Pin=Q301-4
+Removed Pin From Net: NetName=GND Pin=Q302-2
+Removed Pin From Net: NetName=NetD302_A Pin=Q302-3
+Removed Pin From Net: NetName=GND Pin=Q302-4
+Removed Pin From Net: NetName=+3V3 Pin=Q500-2
+Removed Pin From Net: NetName=NetJ503_1 Pin=Q500-3
+Removed Pin From Net: NetName=+3V3 Pin=Q500-4
+Change Component Footprint: Designator=K300 Old Footprint=RELAY_G5NB-1A-E-DC New Footprint=Relay_1C TH_19.2x15.6mm
+Change Component Footprint: Designator=C300 Old Footprint=Safety Capacitor TH,P=10mm New Footprint=CAP-TH_L9.5-W7.0-P7.50-D0.6
+Change Component Footprint: Designator=Q500 Old Footprint=SOT223_N New Footprint=SOT223_L
+Change Component Comment : Designator=R301 Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R303 Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R306 Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R502 Old Comment=1K New Comment=100R
+Change Component Comment : Designator=K300 Old Comment=G5NB-1A-E-DC5V New Comment=SRD-05VDC-SL-C
+Change Component Comment : Designator=C300 Old Comment=MPX104K31C3KN15600 New Comment=100nF
+Change Component Comment : Designator=U2 Old Comment=UART2USB New Comment=CH340C
+Change component parameters: Designator = "C300" ("C300"); Footprint = "Safety Capacitor TH,P=10mm"; UniqueID = "\ASQUVQLD\BPAGYSXR" ("\ASQUVQLD\BPAGYSXR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C19273038.html?s_z=n_q_t_capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "KP104J2J0702"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C19273038"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K300" ("K300"); Footprint = "RELAY_G5NB-1A-E-DC"; UniqueID = "\ASQUVQLD\KAVPXWHM" ("\ASQUVQLD\KAVPXWHM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C35449.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Songle Relay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SRD-05VDC-SL-C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C35449"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R301" ("R301"); Footprint = "RESC1005X03N[0402]"; UniqueID = "\ASQUVQLD\CJELKQWQ" ("\ASQUVQLD\CJELKQWQ")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf1Partnumber"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C106232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R303" ("R303"); Footprint = "RESC1005X03N[0402]"; UniqueID = "\ASQUVQLD\JSYWGOQW" ("\ASQUVQLD\JSYWGOQW")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf1Partnumber"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C106232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R306" ("R306"); Footprint = "RESC1005X03N[0402]"; UniqueID = "\ASQUVQLD\WYYVRKMY" ("\ASQUVQLD\WYYVRKMY")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf1Partnumber"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C106232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R502" ("R502"); Footprint = "RESC1005X03N[0402]"; UniqueID = "\NTXJCUBF\HBPXWBQM" ("\NTXJCUBF\HBPXWBQM")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf1Partnumber"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C106232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=C117(SAFETY CAPACITOR TH,P= 7.5MM)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C2761720.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Dersonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CY2222MD1IEF46J2A8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2761720"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Added Component: Designator=C118(SAFETY CAPACITOR TH,P= 7.5MM)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C2761720.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Dersonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CY2222MD1IEF46J2A8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C2761720"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Added Component: Designator=C119(Safety Capacitor TH,P=10mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C46638866.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WALSON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C42Q322448P40001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C46638866"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Usage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220nF"; VariantName = "[No Variations]"
+Added Component: Designator=C302(C050-035X075)
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C3019055.html?s_z=n_q_t_capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = "KP103J2G0501"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KYET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C3019055"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "400V"; VariantName = "[No Variations]"
+Add component: Footprint Not Found MOUNTING_HOLE_SIZE_M3
+Added Pin To Net: NetName=AC_L Pin=K300-5
+Added Pin To Net: NetName=NetD300_A Pin=Q300-2
+Added Pin To Net: NetName=GND Pin=Q300-3
+Add Pin To Net: Unknown Pin: Pin Q300-4
+Added Pin To Net: NetName=NetD301_A Pin=Q301-2
+Added Pin To Net: NetName=GND Pin=Q301-3
+Added Pin To Net: NetName=NetD301_A Pin=Q301-4
+Added Pin To Net: NetName=NetD302_A Pin=Q302-2
+Added Pin To Net: NetName=GND Pin=Q302-3
+Added Pin To Net: NetName=NetD302_A Pin=Q302-4
+Added Pin To Net: NetName=NetJ503_1 Pin=Q500-2
+Added Pin To Net: NetName=+3V3 Pin=Q500-3
+Added Pin To Net: NetName=NetJ503_1 Pin=Q500-4
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(153, 0, 255)
+Added Pin To Net: NetName=NetC117_1 Pin=C117-1
+Added Pin To Net: NetName=NetC117_1 Pin=C118-2
+Added Net: Name=NetC117_1
+Added Pin To Net: NetName=NetC117_2 Pin=C117-2
+Added Pin To Net: NetName=NetC117_2 Pin=C119-1
+Added Pin To Net: NetName=NetC117_2 Pin=LC100-1
+Added Pin To Net: NetName=NetC117_2 Pin=U100-1
+Added Net: Name=NetC117_2
+Added Pin To Net: NetName=NetC118_1 Pin=C118-1
+Added Pin To Net: NetName=NetC118_1 Pin=C119-2
+Added Pin To Net: NetName=NetC118_1 Pin=LC100-2
+Added Pin To Net: NetName=NetC118_1 Pin=U100-2
+Added Net: Name=NetC118_1
+Added Member To Class: ClassName=U_100_Power Supply Member=Component C117 CY2222MD1IEF46J2A8
+Added Member To Class: ClassName=U_100_Power Supply Member=Component C118 CY2222MD1IEF46J2A8
+Added Member To Class: ClassName=U_100_Power Supply Member=Component C119 C42Q322448P40001
+Added Member To Class: ClassName=U_300_Control Member=Component C302 10nF
+Add Class Member: Failed to add class member : Component MH100 Mounting Hole

@@ -1741,12 +1741,17 @@ Net6=NetName=+5V_DCDC|NetColor=$006EFF6E
 Net7=NetName=+5V_USB|NetColor=$00FF6E6E
 Net8=NetName=+5V0_AC_IN|NetColor=$0099FF00
 Net9=NetName=AC_L|NetColor=$00FF0099
-Net10=NetName=AC_N|NetColor=$00003399
-Net11=NetName=CHASSIS_GND|NetColor=$00707070
-Net12=NetName=GND|NetColor=$00996666
-Net13=NetName=NetLC100_3|NetColor=$00FF0099
-Net14=NetName=NetLC100_4|NetColor=$00003399
-Net15=NetName=NetRT100_1|NetColor=$00FF0099
+Net10=NetName=AC_L_FAN|NetColor=$00FF0099
+Net11=NetName=AC_N|NetColor=$00003399
+Net12=NetName=CHASSIS_GND|NetColor=$00707070
+Net13=NetName=GND|NetColor=$00996666
+Net14=NetName=NetC117_2|NetColor=$00FF0099
+Net15=NetName=NetC118_1|NetColor=$00003399
+Net16=NetName=NetLC100_1|NetColor=$00FF0099
+Net17=NetName=NetLC100_2|NetColor=$00003399
+Net18=NetName=NetLC100_3|NetColor=$00003399
+Net19=NetName=NetLC100_4|NetColor=$00FF0099
+Net20=NetName=NetRT100_1|NetColor=$00FF0099
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
