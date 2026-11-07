@@ -1,0 +1,3 @@
+Added Component: Designator=MH100(MOUNTING_HOLE_SIZE_M3)
+Added Pin To Net: NetName=NetC117_1 Pin=MH100-MH
+Added Member To Class: ClassName=U_100_Power Supply Member=Component MH100 Mounting Hole

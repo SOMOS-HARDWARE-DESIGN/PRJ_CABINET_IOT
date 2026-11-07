@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=NetJ503_1 Pin=Q500-2
+Removed Pin From Net: NetName=NetQ500_3 Pin=Q500-3
+Removed Pin From Net: NetName=NetJ503_1 Pin=Q500-4
+Removed Pin From Net: NetName=IO5_WTRSENS_EN Pin=R502-2
+Removed Pin From Net: NetName=NetQ500_1 Pin=R503-1
+Removed Pin From Net: NetName=GND Pin=R503-2
+Change Footprint: Footprint Not Found SOT23_N
+Change Component Comment : Designator=R502 Old Comment=100R New Comment=0R
+Change Component Comment : Designator=Q500 Old Comment=DMN6068SE-13 New Comment=AO3401
+Change component parameters: Designator = "R502" ("R502"); Footprint = "RESC1005X03N[0402]"; UniqueID = "\NTXJCUBF\NCBPCLII" ("\NTXJCUBF\NCBPCLII")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-0.0JRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q500" ("Q500"); Footprint = "SOT223_L"; UniqueID = "\NTXJCUBF\XCNEBVGB" ("\NTXJCUBF\XCNEBVGB")
+Change component parameters (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = "C20628875"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "AO3401"; VariantName = "[No Variations]"
+Add component: Footprint Not Found SOT23_N
+Added Component: Designator=R509(RESC1005X03N[0402])
+Add component (AddParameter): Name = "ClassName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LifeCycle"; Value = "Checked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf1Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf2Partnumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-3431-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ500_3 Pin=Q500-2
+Added Pin To Net: NetName=NetJ503_1 Pin=Q500-3
+Add Pin To Net: Unknown Pin: Pin Q501-1
+Add Pin To Net: Unknown Pin: Pin Q501-2
+Added Pin To Net: NetName=NetQ500_3 Pin=R503-1
+Added Pin To Net: NetName=NetQ500_1 Pin=R503-2
+Added Pin To Net: NetName=IO5_WTRSENS_EN Pin=R509-1
+Added Pin To Net: NetName=GND Pin=R509-2
+Change Net Name : Old Net Name=NetQ500_3 New Net Name=NetQ500_2
+Added Pin To Net: NetName=NetQ501_3 Pin=R502-2
+Added Net: Name=NetQ501_3
+Add Class Member: Failed to add class member : Component Q501 AO3400
+Added Member To Class: ClassName=U_500_External Member=Component R509 10k
