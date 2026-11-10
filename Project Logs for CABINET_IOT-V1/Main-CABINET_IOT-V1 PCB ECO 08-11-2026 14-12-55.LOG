@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=+3V3 Pin=J506-1
-Removed Pin From Net: NetName=TH6_SDA Pin=J506-2
-Removed Pin From Net: NetName=TH6_SCL Pin=J506-3
-Removed Pin From Net: NetName=GND Pin=J506-4
-Removed Member From Class: ClassName=U_500_External Member=J506

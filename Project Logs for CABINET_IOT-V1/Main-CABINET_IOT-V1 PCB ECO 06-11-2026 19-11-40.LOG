@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=NetRT100_1 Pin=X100-1
-Removed Pin From Net: NetName=AC_N Pin=X100-2
-Added Pin To Net: NetName=AC_N Pin=X100-1
-Added Pin To Net: NetName=NetRT100_1 Pin=X100-2

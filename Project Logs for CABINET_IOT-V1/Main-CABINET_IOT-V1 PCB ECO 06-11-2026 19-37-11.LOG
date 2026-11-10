@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=CT_ANALOG_AC Pin=X402-1
-Removed Pin From Net: NetName=NetR411_1 Pin=X402-2
-Added Pin To Net: NetName=NetR411_1 Pin=X402-1
-Added Pin To Net: NetName=CT_ANALOG_AC Pin=X402-2

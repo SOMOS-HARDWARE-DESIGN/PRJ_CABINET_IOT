@@ -582,7 +582,7 @@ UniqueId=2f4aa24d-2be6-46aa-a476-c089c83dff0d
 Description=EVT-1
 AllowFabrication=0
 ParameterCount=0
-VariationCount=12
+VariationCount=11
 Variation1=Designator=R34|UniqueId=\IRGNZTRU\GYXAPSAE|Kind=1|AlternatePart=
 Variation2=Designator=R36|UniqueId=\IRGNZTRU\WUAKVPKP|Kind=1|AlternatePart=
 Variation3=Designator=R38|UniqueId=\IRGNZTRU\ZXNPGTZB|Kind=1|AlternatePart=
@@ -592,9 +592,8 @@ Variation6=Designator=C409|UniqueId=\BOLDCYLA\FQXAXIJC|Kind=1|AlternatePart=
 Variation7=Designator=R422|UniqueId=\BOLDCYLA\CUSCNGVF|Kind=1|AlternatePart=
 Variation8=Designator=R506|UniqueId=\NTXJCUBF\EBNENZSQ|Kind=1|AlternatePart=
 Variation9=Designator=J502|UniqueId=\NTXJCUBF\DIWADCAH|Kind=1|AlternatePart=
-Variation10=Designator=J506|UniqueId=\NTXJCUBF\ZHZLXPYJ|Kind=1|AlternatePart=
-Variation11=Designator=P200|UniqueId=\RWBCMUNT\VRCAGHSQ|Kind=1|AlternatePart=
-Variation12=Designator=R250|UniqueId=\RWBCMUNT\WVRDXUOD|Kind=1|AlternatePart=
+Variation10=Designator=P200|UniqueId=\RWBCMUNT\VRCAGHSQ|Kind=1|AlternatePart=
+Variation11=Designator=R250|UniqueId=\RWBCMUNT\WVRDXUOD|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
@@ -733,16 +732,6 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=SIMetrixNetlist
-OutputName22=SIMetrix
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=SIMPLISNetlist
-OutputName23=SIMPLIS
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -754,16 +743,6 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1016,11 +995,6 @@ OutputName9=Report Single Pin Nets
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
-OutputType10=BOM_ReportManufacturing
-OutputName10=Manufacturing Data
-OutputDocumentPath10=
-OutputVariantName10=[No Variations]
-OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1143,11 +1117,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=AnsysEDB
-OutputName13=Ansys EDB
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1320,18 +1289,6 @@ Type156=1
 Type157=1
 Type158=1
 Type159=1
-Type160=1
-Type161=1
-Type162=1
-Type163=1
-Type164=1
-Type165=1
-Type166=1
-Type167=1
-Type168=1
-Type169=1
-Type170=1
-Type171=1
 
 [Difference Levels]
 Type1=1
@@ -1421,14 +1378,6 @@ Type84=1
 Type85=1
 Type86=1
 Type87=1
-Type88=1
-Type89=1
-Type90=1
-Type91=1
-Type92=1
-Type93=1
-Type94=1
-Type95=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1594,8 +1543,6 @@ Type160=0
 Type161=0
 Type162=1
 Type163=1
-Type164=1
-Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

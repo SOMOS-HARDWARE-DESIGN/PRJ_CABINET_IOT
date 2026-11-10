@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=AC_L_FAN Pin=X300-1
-Removed Pin From Net: NetName=AC_N Pin=X300-2
-Added Pin To Net: NetName=AC_N Pin=X300-1
-Added Pin To Net: NetName=AC_L_FAN Pin=X300-2
