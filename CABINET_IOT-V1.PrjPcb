@@ -601,20 +601,20 @@ DocumentPath=Project Outputs for CABINET_IOT-V1\Design Rule Check - Main-CABINET
 DItemRevisionGUID=
 
 [Parameter1]
-Name=GlobalDrawnBy
-Value=J-E.Pachon-J.Jaramillo
+Name=GlobalVersion
+Value=1
 
 [Parameter2]
-Name=GlobalReleaseDate
-Value=202610xx
-
-[Parameter3]
 Name=GlobalRevision
 Value=1
 
+[Parameter3]
+Name=GlobalReleaseDate
+Value=20261112
+
 [Parameter4]
-Name=GlobalVersion
-Value=1
+Name=GlobalDrawnBy
+Value=J-E.Pachon-J.Jaramillo
 
 [Configuration1]
 Name=Sources
