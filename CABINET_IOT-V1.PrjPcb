@@ -50,6 +50,11 @@ CurrentVariant=EVT-1
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
+[Release]
+ReleaseTarget=1
+ReleaseFolderPath=[OutputPath]
+ReleaseZipPath=[OutputPath][ProjectName].zip
+
 [Document1]
 DocumentPath=Main.SchDoc
 AnnotationEnabled=1
@@ -601,18 +606,26 @@ DocumentPath=Project Outputs for CABINET_IOT-V1\Design Rule Check - Main-CABINET
 DItemRevisionGUID=
 
 [Parameter1]
-Name=GlobalVersion
-Value=1
+Name=Project_Name
+Value=CABINET IOT
 
 [Parameter2]
-Name=GlobalRevision
+Name=Global_Revision 
 Value=1
 
 [Parameter3]
+Name=GlobalVersion
+Value=1
+
+[Parameter4]
+Name=GlobalRevision
+Value=1
+
+[Parameter5]
 Name=GlobalReleaseDate
 Value=20261112
 
-[Parameter4]
+[Parameter6]
 Name=GlobalDrawnBy
 Value=J-E.Pachon-J.Jaramillo
 
@@ -622,9 +635,47 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=0
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=CABINET_IOT.OutJob
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Configuration2]
+Name=Fabrication
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=CABINET_IOT.OutJob
+ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Fabrication
+
+[Configuration3]
+Name=Assembly EVT-1
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=EVT-1
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=CABINET_IOT.OutJob
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
+
+[Configuration4]
+Name=Assembly
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=CABINET_IOT.OutJob
+ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
+ConfigurationType=Assembly
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -947,15 +998,15 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1536|FormHeight=818|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Administrador\Desktop\Somos\Templates\BOM_Template.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1536|FormHeight=818|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=Comment=True|Footprint=True
 Configuration1_Name5=SortOrder
 Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Comment=120|Designator=120|Footprint=120|LCSC=100|Manufacturer Part Number=100
+Configuration1_Item6=Comment=120|Designator=120|Manufacturer=100|Manufacturer Part Number=100|LCSC=100|Quantity=100|Footprint=120
 Configuration1_Name7=VisibleOrder_Flat
-Configuration1_Item7=Comment=120|Designator=120|Footprint=120|LCSC=100|Manufacturer Part Number=100
+Configuration1_Item7=Comment=120|Designator=120|Manufacturer=100|Manufacturer Part Number=100|LCSC=100|Quantity=100|Footprint=120
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
